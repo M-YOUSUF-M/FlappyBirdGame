@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Visual Studio\flappyBird\main.cpp(35,46): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(35,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(35,77): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(35,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(36,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(36,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(36,62): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(36,62): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(48,59): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(48,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(49,52): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(49,52): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(55,55): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(55,55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(56,49): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(56,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(75,58): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(75,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(75,72): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Visual Studio\flappyBird\main.cpp(75,72): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(94,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(95,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(124,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(125,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(160,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(160,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(161,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(161,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(165,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(165,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(166,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(166,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(175,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(175,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio\flappyBird\main.cpp(23,9): warning C4101: 'number_of_piller': unreferenced local variable
+C:\Visual Studio\flappyBird\main.cpp(21,9): warning C4101: 'wall_gap': unreferenced local variable
+C:\Visual Studio\flappyBird\main.cpp(22,9): warning C4101: 'total_piller_height': unreferenced local variable
+  flappyBird.vcxproj -> C:\Visual Studio\flappyBird\x64\Debug\flappyBird.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
